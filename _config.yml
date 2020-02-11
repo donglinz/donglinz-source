@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Future System Architecture Group@USYD
+title: Future System Architecture Lab@USYD
 subtitle: ''
 description: ''
 keywords:
@@ -104,4 +104,5 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/donglinz/donglinz.github.io.git
